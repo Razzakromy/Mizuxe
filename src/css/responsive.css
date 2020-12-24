@@ -1,0 +1,17 @@
+@media (max-width: 576px) {
+  #showcase h1 {
+    font-size: 4rem;
+  }
+  #showcase p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 425px){
+  #authors .col-lg-3{
+    margin-top: 3.5rem;
+  }
+  #authors .col-lg-3:nth-child(1){
+    margin-top: 0px;
+  }
+}
